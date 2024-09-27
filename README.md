@@ -4,13 +4,17 @@ This project focuses on predicting bike rental demand using weather variables. T
 
 **Key Highlights:**
 
-Data Cleaning & Preparation: Cleaned and processed 17,379 records, ensuring data consistency by reducing inconsistencies by 20%. This step was crucial to ensure the data was ready for statistical analysis.
+Data Cleaning & Preparation: 
+Cleaned and processed 17,379 records, ensuring data consistency by reducing inconsistencies by 20%. This step was crucial to ensure the data was ready for statistical analysis.
 
-Exploratory Data Analysis (EDA): Conducted a comprehensive analysis to understand the relationships between weather variables and bike rentals. Key trends and correlations were identified between temperature, humidity, and wind speed, influencing bike rental demand.
+Exploratory Data Analysis (EDA): 
+Conducted a comprehensive analysis to understand the relationships between weather variables and bike rentals. Key trends and correlations were identified between temperature, humidity, and wind speed, influencing bike rental demand.
 
-Regression Model Development: A multiple linear regression model was developed in SAS using weather variables such as temperature, humidity, and wind speed. This model explained 25.1% of the variance in bike rentals, providing a significant understanding of how environmental conditions affect demand.
+Regression Model Development: 
+A multiple linear regression model was developed in SAS using weather variables such as temperature, humidity, and wind speed. This model explained 25.1% of the variance in bike rentals, providing a significant understanding of how environmental conditions affect demand.
 
-Model Validation & Performance: The model was validated using statistical tests to assess its robustness and reliability. Adjustments were made to enhance its predictive power while maintaining a balance between simplicity and accuracy.
+Model Validation & Performance: 
+The model was validated using statistical tests to assess its robustness and reliability. Adjustments were made to enhance its predictive power while maintaining a balance between simplicity and accuracy.
 Actionable Insights: The findings of this project suggest that certain weather conditions significantly impact bike rental demand, which can help rental companies in strategic planning, resource allocation, and optimizing service delivery during different weather conditions.
 
 Tools & Technologies:
